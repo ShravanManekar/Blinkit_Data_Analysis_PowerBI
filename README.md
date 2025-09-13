@@ -37,9 +37,9 @@ Through this project, I built hands-on skills in:
 
 ## 🔹 Dashboard Preview  
 📸 **Screenshots:**  
-Upload screenshots to a `Screenshots/` folder and link them here.  
+  
 
 Example:  
 ```markdown
-![Dashboard Preview](Screenshots/Blinkit_Dashboard.png)
+![Dashboard Preview](https://github.com/ShravanManekar/Blinkit_Data_Analysis_PowerBI/blob/main/Screenshot%202025-09-14%20005543.png)
 
