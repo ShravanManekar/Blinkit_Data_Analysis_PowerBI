@@ -21,8 +21,8 @@ Through this project, I built hands-on skills in:
 ## 🔹 Key Features  
 ✨ **KPI Cards** – Total Sales ($1.20M), Avg. Sale ($141), No. of Items (8,523), Avg. Rating (3.9)  
 📈 **Trend Analysis** – Line chart showing sales growth & outlet establishment timeline (2012–2022)  
-🥧 **Category Insights** – Donut chart comparing fat content sales (Regular vs Low Fat)  
-📊 **Product Analysis** – Bar charts revealing top-performing categories (Fruits, Snacks, Household)  
+🥧 **Category Insights** – Fat content contribution (Regular vs Low Fat)  
+📊 **Product Analysis** – Item type performance across Fruits, Snacks, Household goods, etc.  
 🌍 **Outlet Insights** – Sales contribution by location type (Tier 1, Tier 2, Tier 3) and outlet size  
 🎛 **Interactivity** – Drill-down filters for **Outlet Location, Outlet Size, Item Type**  
 
@@ -35,11 +35,36 @@ Through this project, I built hands-on skills in:
 
 ---
 
-## 🔹 Dashboard Preview  
-📸 **Screenshots:**  
-  
+## 🔹 Insights & Findings  
+From the dashboard analysis:  
+- **Tier 3 outlets** generated the **highest sales ($472K)**, proving strong performance in smaller cities.  
+- **Regular fat content products** contributed **~65% of total revenue**, outperforming Low Fat products.  
+- **Fruits, Snack Foods, and Household goods** were the **top-selling categories**.  
+- Sales grew steadily **from 2012 to 2022**, showing consistent business expansion.  
 
-Example:  
-```markdown
-![Dashboard Preview](https://github.com/ShravanManekar/Blinkit_Data_Analysis_PowerBI/blob/main/Screenshot%202025-09-14%20005543.png)
+---
+
+## 🔹 Files in this Repository  
+- `Blinkit_Dashboard.pbix` → Power BI dashboard file  
+- `Screenshots/` → Contains dashboard screenshots  
+- `README.md` → Documentation  
+
+---
+
+## 🔹 How to Use  
+1. Download or clone this repository.  
+2. Open `Blinkit_Dashboard.pbix` in **Power BI Desktop**.  
+3. Connect or refresh the dataset if required.  
+4. Explore the dashboard and interact with filters.  
+
+---
+
+## 🔹 Author  
+👤 **Shravan Manekar**  
+📧 Shravanmanekar664@gmail.com
+
+
+---
+
+⭐ If you found this project useful, don’t forget to **star ⭐ the repo** and share your feedback!  
 
